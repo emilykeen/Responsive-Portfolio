@@ -38,7 +38,7 @@ h2 {
 .links {
 	float:left;
 	font-size: 20px;
-	left:700px;
+	left:500px;
 	top:40px;
 	width: 270px;
 	background: white;
@@ -263,7 +263,7 @@ h2 {
 
 	@media screen and (min-width: 641px) and (max-width: 768px){
 
-		.links{left:400px;}
+		.links{left:200px;}
 		#connectwithme{width:100%;}
 		.footer{width:100%;}
 
